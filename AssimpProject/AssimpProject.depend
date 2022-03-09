@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1588905318 source:c:\users\dhanyu\desktop\game2020\assimpproject\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<assimp/cimport.h>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1066740114 c:\users\dhanyu\desktop\game2020\common\include\gl\glut.h
+	"freeglut_std.h"
+
+1453322919 c:\users\dhanyu\desktop\game2020\common\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\cimport.h
+	<assimp/types.h>
+	"importerdesc.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\types.h
+	<sys/types.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	<stdint.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\defs.h
+	<assimp/config.h>
+
+1587727566 c:\users\dhanyu\desktop\game2020\common\include\assimp\config.h
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"defs.h"
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"defs.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\color4.h
+	"defs.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\matrix3x3.h
+	"defs.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\matrix4x4.h
+	"vector3.h"
+	"defs.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\quaternion.h
+	"defs.h"
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\color4.inl
+	"color4.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	"MathFunctions.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1587708843 c:\users\dhanyu\desktop\game2020\common\include\assimp\mathfunctions.h
+	<limits>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\importerdesc.h
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+	<cstdlib>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\compiler\pushpack1.h
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\compiler\poppack1.h
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\mesh.h
+	<assimp/types.h>
+	<assimp/aabb.h>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\aabb.h
+	<assimp/vector3.h>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\light.h
+	"types.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\camera.h
+	"types.h"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\material.inl
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\anim.h
+	<assimp/types.h>
+	<assimp/quaternion.h>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\metadata.h
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1587708845 c:\users\dhanyu\desktop\game2020\common\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1587708844 c:\users\dhanyu\desktop\game2020\common\include\assimp\postprocess.h
+	"types.h"
+
+1619820808 source:c:\users\salam\downloads\assimpproject\assimpproject\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<assimp/cimport.h>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1619820808 source:c:\users\salam\desktop\csci 172\assimpproject\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<assimp/cimport.h>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1619817208 source:c:\users\salam\desktop\folders\school\graphics projects\assimpproject\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<assimp/cimport.h>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
