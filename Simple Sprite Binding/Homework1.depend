@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1605753602 source:c:\users\salam\desktop\csci 172\homework1\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<GL/SOIL.h>
+	<math.h>
+	<cmath>
+	<time.h>
+
+1599243738 c:\users\salam\desktop\csci 172\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1604951976 c:\users\salam\desktop\csci 172\common\include\gl\soil.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1612569047 source:c:\users\salam\desktop\csci 172\lab01_lines\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<time.h>
+
+1599247338 c:\users\salam\desktop\csci 172\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1612565447 source:c:\users\salam\desktop\folders\school\graphics projects\lab01_lines\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<time.h>
+

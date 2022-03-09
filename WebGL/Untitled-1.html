@@ -1,0 +1,43 @@
+<html>
+    <head>
+    <title> My first WebGL </title>
+    <meta http-equiv="content-type" content="text/html"; charset="ISO-8859-1">
+    <script type = "text/javascript" src = "commmon/glMatrix-0.9.9.min.js"></script>
+    <script type = "text/javascript" src = "commmon/webgl-utils.js"></script>
+
+        <script type = "text/javascript"> 
+        var gl;
+
+        function initGL(canvas){
+            try{
+                gl = canvas.getContext("webgl");
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight;
+
+
+                gl.viewportWidth = window.innerWidth;
+                gl.viewportHeight = window.innerHeight;
+
+                gl.viewport(0,0,gl.viewportWidth, gl.viewportHeight);
+                mat4.perspective(45, gl.viewportWidth/gl.viewportHeight, 0.1, 100, pMatrix)
+            }
+
+        }
+
+
+        function webGLStart(){
+            var canvas = document.getElementById("frame");
+            initGL(canvas);
+        }
+        
+        
+        </script>
+
+    </head>
+    <body onload = "webGLStart()">
+        <canvas id="frame" style="border: none;"></canvas>
+
+
+    </body>
+
+</html>
